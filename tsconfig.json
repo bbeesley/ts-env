@@ -1,16 +1,17 @@
 {
+  "extends": "@beesley/tsconfig/npm.json",
   "compilerOptions": {
-    "target": "es2018",
-    "module": "commonjs",
-    "lib": ["es2020"],
-    "esModuleInterop": true,
-    "downlevelIteration": true,
-    "strict": true,
-    "noImplicitAny": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "declaration": true,
-    "outDir": "dist"
+    "types": ["node"],
+    "declarationDir": "dist/types",
+    "outDir": "dist/esm",
+    "exactOptionalPropertyTypes": false,
+    "noUnusedParameters": false,
   },
-  "exclude": ["node_modules", "dist", "tests"]
+  "include": ["src/**/*.ts", "src/*.ts"],
+  "exclude": ["src/*.test.*", "src/**/*.test.*", "src/test/*.ts"],
+  "ts-node": {
+    "exclude": [],
+    "transpileOnly": true,
+    "files": true
+  }
 }
