@@ -1,3 +1,3 @@
-export default (key: string) => {
-  return process.env[key]
+export default function string(key: string) {
+  return process.env[key];
 }

@@ -11,6 +11,10 @@ updates:
   commit-message:
     prefix: chore
     include: scope
+    ignore:
+      - dependency-name: "@semantic-release/*"
+      - dependency-name: "semantic-release"
+      - dependency-name: "@types/node"
 - package-ecosystem: "github-actions"
   directory: "/"
   assignees:

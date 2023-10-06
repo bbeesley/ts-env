@@ -1,9 +1,10 @@
-export default (key: string) => {
-  const number = Number(process.env[key])
+export default function number(key: string) {
+  const number = Number(process.env[key]);
+  console.error({ key, number });
 
-  if (isNaN(number)) {
-    return undefined
+  if (Number.isNaN(number)) {
+    return undefined;
   }
 
-  return number
+  return number;
 }
