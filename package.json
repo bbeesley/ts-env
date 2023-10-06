@@ -1,6 +1,6 @@
 {
   "name": "@beesley/ts-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An environment variable reader for TypeScript",
   "repository": {
     "type": "git",

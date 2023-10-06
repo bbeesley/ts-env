@@ -1,6 +1,6 @@
-[@beesley/ts-env - v0.0.0](README.md) / Exports
+[@beesley/ts-env - v1.0.0](README.md) / Exports
 
-# @beesley/ts-env - v0.0.0
+# @beesley/ts-env - v1.0.0
 
 ## Table of contents
 
