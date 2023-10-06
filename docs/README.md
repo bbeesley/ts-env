@@ -1,6 +1,8 @@
 @beesley/ts-env / [Exports](modules.md)
 
-# ts-env
+# @beesley/ts-env / [Exports](docs/modules.md)
+
+[![Build, Test & Publish Main](https://github.com/bbeesley/ts-env/actions/workflows/build-test-on-push.yml/badge.svg)](https://github.com/bbeesley/ts-env/actions/workflows/build-test-on-push.yml) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
 An environment variable reader for TypeScript. Simple and minimal. ✨
 
