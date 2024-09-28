@@ -1,0 +1,68 @@
+/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622
+      let moduleResolution = compilerOptions.moduleResolution;
+                                             ^
+
+TypeError: Cannot read properties of undefined (reading 'moduleResolution')
+    at computeValue (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622:46)
+    at importSyntaxAffectsModuleResolution (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21599:28)
+    at getDefaultResolutionModeForFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:127780:10)
+    at Object.getMode (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:124407:85)
+    at Object.resolveTypeReferenceDirectiveReferences (file:///Volumes/Projects/ts-env/node_modules/tsimp/dist/esm/service/resolve-type-reference-directive-references.js:24:45)
+    at resolveTypeReferenceDirectiveNamesWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125232:20)
+    at resolveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125354:14)
+    at resolveTypeReferenceDirectiveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125325:12)
+    at processTypeReferenceDirectives (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126706:156)
+    at findSourceFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126595:9)
+
+Node.js v20.17.0
+/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622
+      let moduleResolution = compilerOptions.moduleResolution;
+                                             ^
+
+TypeError: Cannot read properties of undefined (reading 'moduleResolution')
+    at computeValue (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622:46)
+    at importSyntaxAffectsModuleResolution (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21599:28)
+    at getDefaultResolutionModeForFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:127780:10)
+    at Object.getMode (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:124407:85)
+    at Object.resolveTypeReferenceDirectiveReferences (file:///Volumes/Projects/ts-env/node_modules/tsimp/dist/esm/service/resolve-type-reference-directive-references.js:24:45)
+    at resolveTypeReferenceDirectiveNamesWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125232:20)
+    at resolveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125354:14)
+    at resolveTypeReferenceDirectiveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125325:12)
+    at processTypeReferenceDirectives (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126706:156)
+    at findSourceFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126595:9)
+
+Node.js v20.17.0
+/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622
+      let moduleResolution = compilerOptions.moduleResolution;
+                                             ^
+
+TypeError: Cannot read properties of undefined (reading 'moduleResolution')
+    at computeValue (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622:46)
+    at importSyntaxAffectsModuleResolution (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21599:28)
+    at getDefaultResolutionModeForFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:127780:10)
+    at Object.getMode (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:124407:85)
+    at Object.resolveTypeReferenceDirectiveReferences (file:///Volumes/Projects/ts-env/node_modules/tsimp/dist/esm/service/resolve-type-reference-directive-references.js:24:45)
+    at resolveTypeReferenceDirectiveNamesWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125232:20)
+    at resolveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125354:14)
+    at resolveTypeReferenceDirectiveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125325:12)
+    at processTypeReferenceDirectives (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126706:156)
+    at findSourceFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126595:9)
+
+Node.js v20.17.0
+/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622
+      let moduleResolution = compilerOptions.moduleResolution;
+                                             ^
+
+TypeError: Cannot read properties of undefined (reading 'moduleResolution')
+    at computeValue (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21622:46)
+    at importSyntaxAffectsModuleResolution (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:21599:28)
+    at getDefaultResolutionModeForFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:127780:10)
+    at Object.getMode (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:124407:85)
+    at Object.resolveTypeReferenceDirectiveReferences (file:///Volumes/Projects/ts-env/node_modules/tsimp/dist/esm/service/resolve-type-reference-directive-references.js:24:45)
+    at resolveTypeReferenceDirectiveNamesWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125232:20)
+    at resolveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125354:14)
+    at resolveTypeReferenceDirectiveNamesReusingOldState (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:125325:12)
+    at processTypeReferenceDirectives (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126706:156)
+    at findSourceFileWorker (/Volumes/Projects/ts-env/node_modules/typescript/lib/typescript.js:126595:9)
+
+Node.js v20.17.0

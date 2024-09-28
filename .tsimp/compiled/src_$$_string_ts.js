@@ -1,0 +1,4 @@
+export default function string(key) {
+    return process.env[key];
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3RyaW5nLmpzIiwic291cmNlUm9vdCI6Ii9Wb2x1bWVzL1Byb2plY3RzL3RzLWVudi8iLCJzb3VyY2VzIjpbInNyYy9zdHJpbmcudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsTUFBTSxDQUFDLE9BQU8sVUFBVSxNQUFNLENBQUMsR0FBVztJQUN4QyxPQUFPLE9BQU8sQ0FBQyxHQUFHLENBQUMsR0FBRyxDQUFDLENBQUM7QUFDMUIsQ0FBQyJ9

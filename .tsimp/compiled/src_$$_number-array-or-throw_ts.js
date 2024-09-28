@@ -1,0 +1,6 @@
+import numberArray from './number-array.js';
+import orThrow from './or-throw.js';
+export default function numberArrayOrThrow(key, separator) {
+    return orThrow((k) => numberArray(k, separator), 'number array')(key);
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibnVtYmVyLWFycmF5LW9yLXRocm93LmpzIiwic291cmNlUm9vdCI6Ii9Wb2x1bWVzL1Byb2plY3RzL3RzLWVudi8iLCJzb3VyY2VzIjpbInNyYy9udW1iZXItYXJyYXktb3ItdGhyb3cudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxXQUFXLE1BQU0sbUJBQW1CLENBQUM7QUFDNUMsT0FBTyxPQUFPLE1BQU0sZUFBZSxDQUFDO0FBRXBDLE1BQU0sQ0FBQyxPQUFPLFVBQVUsa0JBQWtCLENBQUMsR0FBVyxFQUFFLFNBQWtCO0lBQ3hFLE9BQU8sT0FBTyxDQUFDLENBQUMsQ0FBQyxFQUFFLEVBQUUsQ0FBQyxXQUFXLENBQUMsQ0FBQyxFQUFFLFNBQVMsQ0FBQyxFQUFFLGNBQWMsQ0FBQyxDQUFDLEdBQUcsQ0FBQyxDQUFDO0FBQ3hFLENBQUMifQ==

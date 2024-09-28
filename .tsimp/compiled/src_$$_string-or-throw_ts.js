@@ -1,0 +1,6 @@
+import string from './string.js';
+import orThrow from './or-throw.js';
+export default function stringOrThrow(key) {
+    return orThrow(string, 'string')(key);
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3RyaW5nLW9yLXRocm93LmpzIiwic291cmNlUm9vdCI6Ii9Wb2x1bWVzL1Byb2plY3RzL3RzLWVudi8iLCJzb3VyY2VzIjpbInNyYy9zdHJpbmctb3ItdGhyb3cudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxNQUFNLE1BQU0sYUFBYSxDQUFDO0FBQ2pDLE9BQU8sT0FBTyxNQUFNLGVBQWUsQ0FBQztBQUVwQyxNQUFNLENBQUMsT0FBTyxVQUFVLGFBQWEsQ0FBQyxHQUFXO0lBQy9DLE9BQU8sT0FBTyxDQUFDLE1BQU0sRUFBRSxRQUFRLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQztBQUN4QyxDQUFDIn0=
