@@ -65,7 +65,7 @@
     "@semantic-release/github": "^9.0.3",
     "@semantic-release/npm": "^11.0.0",
     "@semantic-release/release-notes-generator": "^12.0.0",
-    "@smithy/types": "^1.1.1",
+    "@smithy/types": "^3.4.2",
     "@types/js-yaml": "^4.0.5",
     "@types/jsdom": "^21.1.1",
     "@types/node": "^18.18.3",
