@@ -15,6 +15,11 @@ updates:
       - dependency-name: '@semantic-release/*'
       - dependency-name: 'semantic-release'
       - dependency-name: '@types/node'
+    groups:
+      production-dependencies:
+        dependency-type: 'production'
+      development-dependencies:
+        dependency-type: 'development'
   - package-ecosystem: 'github-actions'
     directory: '/'
     assignees:
