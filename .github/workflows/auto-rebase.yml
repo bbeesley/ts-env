@@ -1,6 +1,8 @@
 name: Request Dependabot Rebase
 on:
   push:
+    branches:
+      - main
   release:
     types: [published]
 jobs:
