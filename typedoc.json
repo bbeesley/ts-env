@@ -2,8 +2,8 @@
   "entryPoints": ["src/index.ts"],
   "includeVersion": true,
   "tsconfig": "./tsconfig.json",
+  "plugin": ["typedoc-plugin-markdown"],
   "out": "./docs",
-  "theme": "markdown",
   "name": "@beesley/ts-env",
   "hideGenerator": true,
   "gitRevision": "main"
