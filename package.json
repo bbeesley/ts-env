@@ -80,10 +80,10 @@
     "prettier": "^3.3.3",
     "sinon": "^19.0.2",
     "tsimp": "^2.0.11",
-    "typedoc": "^0.26.7",
+    "typedoc": "^0.27.6",
     "typedoc-plugin-markdown": "^4.2.8",
-    "typescript": "5.5",
-    "xo": "^0.59.3"
+    "typescript": "5.7",
+    "xo": "^0.60.0"
   },
   "eslintConfig": {
     "parserOptions": {
