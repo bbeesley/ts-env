@@ -1,6 +1,8 @@
-@beesley/ts-env / [Exports](modules.md)
+**@beesley/ts-env v1.0.1** • [**Docs**](globals.md)
 
-# @beesley/ts-env / [Exports](docs/modules.md)
+***
+
+# @beesley/ts-env / [Exports](_media/globals.md)
 
 [![Build, Test & Publish Main](https://github.com/bbeesley/ts-env/actions/workflows/build-test-on-push.yml/badge.svg)](https://github.com/bbeesley/ts-env/actions/workflows/build-test-on-push.yml) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 

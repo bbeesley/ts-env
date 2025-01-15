@@ -1,4 +1,5 @@
 {
+  "$schema": "https://typedoc.org/schema.json",
   "entryPoints": ["src/index.ts"],
   "includeVersion": true,
   "tsconfig": "./tsconfig.json",
@@ -6,5 +7,5 @@
   "out": "./docs",
   "name": "@beesley/ts-env",
   "hideGenerator": true,
-  "gitRevision": "main"
+  "gitRevision": "main",
 }
