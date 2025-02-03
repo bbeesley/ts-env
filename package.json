@@ -65,7 +65,7 @@
     "@semantic-release/github": "^9.0.3",
     "@semantic-release/npm": "^11.0.0",
     "@semantic-release/release-notes-generator": "^12.0.0",
-    "@smithy/types": "^3.4.2",
+    "@smithy/types": "^4.1.0",
     "@types/js-yaml": "^4.0.9",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^22.7.4",
@@ -80,10 +80,10 @@
     "prettier": "^3.3.3",
     "sinon": "^19.0.2",
     "tsimp": "^2.0.11",
-    "typedoc": "^0.26.7",
+    "typedoc": "^0.27.6",
     "typedoc-plugin-markdown": "^4.2.8",
-    "typescript": "5.5",
-    "xo": "^0.59.3"
+    "typescript": "5.7",
+    "xo": "^0.60.0"
   },
   "eslintConfig": {
     "parserOptions": {
